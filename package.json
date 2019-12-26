@@ -1,6 +1,6 @@
 {
   "name": "@skandasoft/helloworld",
-  "version": "v1.0.0",
+  "version": "v2.0.0",
   "description": "hello world",
   "main": "index.js",
   "scripts": {
